@@ -45,7 +45,7 @@ IoT devices generate tasks and threats are simulated as intrusions moving toward
 Each UAV predicts its path and allocates resources adaptively using local information.  
 
 <p align="center">
-  <img src="results/system_architecture.png" alt="System Architecture" width="750"/>
+  <img src="results/simulation.gif" alt="System Architecture" width="750"/>
 </p>
 
 ---
