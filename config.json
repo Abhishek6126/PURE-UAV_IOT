@@ -1,0 +1,27 @@
+{
+  "mode": "hybrid",
+  "area_size": 100,
+  "time_slots": 10,
+  "iot": {
+    "device_count": 100,
+    "sensing_range": 30,
+    "battery_range": [200, 400]
+  },
+  "uav": {
+    "count": 3,
+    "battery": 150,
+    "hover_time": 50,
+    "service_range": 10
+  },
+  "threats": {
+    "count": 10,
+    "spawn_frequency": 1
+  },
+  "offloading": {
+    "energy_threshold": 1.0,
+    "consumption_per_slot": 0.5
+  },
+  "gmm": {
+    "history_window": 10
+  }
+}
